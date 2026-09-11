@@ -9,3 +9,10 @@ Se presentan tres tipos de papeles:
 El papel semilogarítmico en la escala aritmética presenta 10 divisiones por cada
 intervalo, ADVIRTIENDO que este tipo de papel se puede encontrar comunmente con
 seis divisiones en cada intervalo, representando cada división 1/6 del intervalo.
+
+# Ecuaciones que representan una recta por papel
+- Milimetrado:   y = m · x + b
+- Logarítmico:   y = A · x ^ B
+- Semilogarítmico:
+     - Log-Arit: y = A · B ^ x
+     - Arit-Log: y = A + B · Log(x)
