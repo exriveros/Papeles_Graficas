@@ -12,7 +12,7 @@ seis divisiones en cada intervalo, representando cada división 1/6 del interval
 
 # Ecuaciones que representan una recta por papel
 - Milimetrado:   y = m · x + b           
-- Logarítmico:   y = A · x ^ B           -> Linealizado: Log(y) = Log(A) + B · Log(x)
+- Logarítmico:   y = A · x ^ B -> Linealizado: Log(y) = Log(A) + B · Log(x)
 - Semilogarítmico:
-     - Log-Arit: y = A · B ^ x           -> Linealizado: Log(y) = Log(A) + Log(B) · x
+     - Log-Arit: y = A · B ^ x -> Linealizado: Log(y) = Log(A) + Log(B) · x
      - Arit-Log: y = A + B · Log(x)
